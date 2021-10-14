@@ -1,10 +1,4 @@
-"""Test the functions in main and the command-line interface."""
-
-from typer.testing import CliRunner
-
-from palindromechecker.main import cli
-
-runner = CliRunner()
+# TODO: Add the required docstring and any required imports of objects
 
 # Reference:
 # https://typer.tiangolo.com/tutorial/testing/
