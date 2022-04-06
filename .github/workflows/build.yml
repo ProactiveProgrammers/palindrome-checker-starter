@@ -99,6 +99,11 @@ jobs:
           run: |
             cd palindromechecker
             poetry run task mypy
+        # Run the test coverage monitoring tool
+        - name: Run Test Coverage Monitoring Tool
+          run: |
+            cd palindromechecker
+            poetry run task coverage
         # Determine the version of Gradle
         - name: Determine Gradle Version
           if: always()
