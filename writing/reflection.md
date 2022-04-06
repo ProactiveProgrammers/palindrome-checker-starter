@@ -13,12 +13,12 @@ TODO: Provide the complete command-line for your use of the `palindromechecker` 
 TODO: Provide the output for running `palindromechecker` in the following configurations:
 
 - Recursive:
-  - Input `word` is a palindrome
-  - Input `word` is not a palindrome
+  - Input a `word` that is a palindrome
+  - Input a `word` that is not a palindrome
 
 - Reverse:
-  - Input `word` is a palindrome
-  - Input `word` is not a palindrome
+  - Input a `word` that is a palindrome
+  - Input a `word` that is not a palindrome
 
 ### What is the output from running the test suite with test coverage monitoring?
 
