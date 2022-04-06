@@ -1,7 +1,7 @@
 # Palindrome Checking
 
-## Assigned: Thursday, October 14, 2021
-## Due: Thursday, October 21, 2021
+## Assigned: Wednesday, April 6, 2022
+## Due: Wednesday, April 13, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
@@ -20,6 +20,8 @@ After cloning this repository to your computer, please take the following steps:
   - `poetry run task test`: run the test suite without coverage tracking
   - `poetry run task coverage`: run the test suite with coverage tracking
 - Confirm that the program is producing the expected output
+- Frequently commit to your GitHub repository as you add source code and technical writing
+- When you commit to your GitHub repository, please use descriptive commit messages
 - Use a `docker run` command for your operating system to run GatorGrader
 - Please be aware that performance profiling in a Docker contain may not work as expected
 - Provide all of the required responses in the `writing/reflection.md` file
