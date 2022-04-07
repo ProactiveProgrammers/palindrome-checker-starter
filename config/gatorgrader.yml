@@ -38,21 +38,21 @@ palindromechecker/palindromechecker/util.py:
 palindromechecker/tests/test_palindrome.py:
     ConfirmFileExists
     MatchFileFragment --fragment "TODO" --count 0 --exact
-    MatchFileFragment --fragment "test_" --count 4 --exact
+    MatchFileFragment --fragment "test_" --count 4
     CountMultipleLineComments --language Python --count 5
 
 # --> check the Python program
 palindromechecker/tests/test_main.py:
     ConfirmFileExists
     MatchFileFragment --fragment "TODO" --count 0 --exact
-    MatchFileFragment --fragment "test_" --count 4 --exact
+    MatchFileFragment --fragment "test_" --count 4
     CountMultipleLineComments --language Python --count 5
 
 # --> check the Python program
 palindromechecker/tests/test_util.py:
     ConfirmFileExists
     MatchFileFragment --fragment "TODO" --count 0 --exact
-    MatchFileFragment --fragment "test_" --count 2 --exact
+    MatchFileFragment --fragment "test_" --count 2
     CountMultipleLineComments --language Python --count 3
 
 # --> check the technical writing for various characteristics
