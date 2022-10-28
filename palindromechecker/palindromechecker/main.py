@@ -5,8 +5,8 @@
 # TODO: create the command-line interface object with typer
 
 # TODO: define a PalindromeCheckingApproach enumeration with these options:
-# --> "recursive": use the recursive approach described on page 129
-# --> "reverse": use the recursive approach described on page 164
+# --> "RECURSIVE": use the recursive approach described on page 129
+# --> "REVERSE": use the recursive approach described on page 164
 
 # TODO: implement a command-line interface using typer that produces
 # output like those examples included in the remainder of this file
