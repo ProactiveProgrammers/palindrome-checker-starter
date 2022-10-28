@@ -23,6 +23,7 @@ TODO: Provide the output for running `palindromechecker` in the following config
 ### What is the output from running the test suite with test coverage monitoring? How good are your tests?
 
 TODO: Provide the command that you used to run the coverage tracking for the test suite
+TODO: Make sure that you explain the quality of your tests as explained by the coverage report
 
 ## Source Code
 
