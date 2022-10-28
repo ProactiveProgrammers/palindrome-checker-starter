@@ -1,7 +1,6 @@
 # TODO: Add the required docstring and any required imports of objects
 
-# Reference:
-# https://typer.tiangolo.com/tutorial/testing/
+# TODO: Add comments to the test cases to explain how the tests works
 
 
 def test_palindromechecker_recursive_is_palindrome():

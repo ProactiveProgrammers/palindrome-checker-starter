@@ -1,8 +1,6 @@
 # TODO: Add the required docstring and any required imports of objects
 
-
-# Reference:
-# https://docs.pytest.org/en/6.2.x/
+# TODO: Add comments to the test cases to explain how the tests works
 
 
 def test_short_palindrome_word_recursive():
