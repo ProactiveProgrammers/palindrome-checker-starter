@@ -20,7 +20,7 @@ TODO: Provide the output for running `palindromechecker` in the following config
   - Input a `word` that is a palindrome
   - Input a `word` that is not a palindrome
 
-### What is the output from running the test suite with test coverage monitoring?
+### What is the output from running the test suite with test coverage monitoring? How good are your tests?
 
 TODO: Provide the command that you used to run the coverage tracking for the test suite
 
