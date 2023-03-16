@@ -1,6 +1,8 @@
 # Palindrome Checking
 
 TODO: Delete all of the writing prompts and TODO markers from this file!
+TODO: Make sure that all of your responses to these technical writing questions
+      have correct spelling, syntax, grammar, and formatting!
 
 ## Add Your Name Here
 
@@ -24,6 +26,10 @@ TODO: Provide the output for running `palindromechecker` in the following config
 
 TODO: Provide the command that you used to run the coverage tracking for the test suite
 TODO: Make sure that you explain the quality of your tests as explained by the coverage report
+TODO: While you are not required to achieve `100%` coverage of the program under test,
+      you are encouraged to achieve as high of test coverage as you can.
+TODO: Depending on your implementation, it should be possible to achieve `100%`
+      code coverage of the functions in the three program modules!
 
 ## Source Code
 
