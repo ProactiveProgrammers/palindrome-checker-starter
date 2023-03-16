@@ -16,10 +16,10 @@ def test_short_not_palindrome_word_recursive():
 
 
 def test_short_palindrome_word_reverse():
-    """Ensure that a short word of "civic" works correctly."""
+    """Ensure that a short word of "civic" works correctly with reverse."""
     # TODO: implement this test case using the provided example
 
 
 def test_short_not_palindrome_word_reverse():
-    """Ensure that a short word of "taylor" does not work correctly."""
+    """Ensure that a short word of "taylor" does not work correctly with reverse."""
     # TODO: implement this test case using the provided example
