@@ -9,8 +9,8 @@ palindromechecker = "palindromechecker.main:cli"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-typer = {extras = ["all"], version = "^0.3.2"}
 rich = "^10.9.0"
+typer = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
 black = "^21.8b0"
