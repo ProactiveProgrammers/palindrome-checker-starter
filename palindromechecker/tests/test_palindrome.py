@@ -4,14 +4,14 @@
 
 
 def test_short_palindrome_word_recursive():
-    """Ensure that a short word of "civic" works correctly."""
+    """Ensure that a short word of "civic" works correctly with recursive."""
     word = "civic"
     result = palindrome.is_palindrome_recursive(word)
     assert result is True
 
 
 def test_short_not_palindrome_word_recursive():
-    """Ensure that a short word of "taylor" does not work correctly."""
+    """Ensure that a short word of "taylor" does not work correctly with recursive."""
     # TODO: implement this test case using the provided example
 
 
