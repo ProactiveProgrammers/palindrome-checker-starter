@@ -8,6 +8,11 @@
 # --> "RECURSIVE": use the recursive approach described on page 129
 # --> "REVERSE": use the recursive approach described on page 164
 
+# TODO: When you are setting the default values of the --approach variable
+# you may need to consider how to extract a value from PalindromeCheckingApproach
+# Please refer to this GitHub issue tracker discussion for more details:
+# https://github.com/tiangolo/typer/issues/290
+
 # TODO: implement a command-line interface using typer that produces
 # output like those examples included in the remainder of this file
 
