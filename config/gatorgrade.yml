@@ -13,6 +13,30 @@ setup: |
         fragment: TODO
         count: 0
         exact: true
+    - description: Add the correct import statement for palindrome module in main.py
+      check: MatchFileFragment
+      options:
+        fragment: "from palindromechecker import palindrome"
+        count: 1
+        exact: true
+    - description: Add the correct import statement for palindromechecker module in main.py
+      check: MatchFileFragment
+      options:
+        fragment: "from palindromechecker import util"
+        count: 1
+        exact: true
+    - description: Add the correct import statement for the typer package in main.py
+      check: MatchFileFragment
+      options:
+        fragment: "import typer"
+        count: 1
+        exact: true
+    - description: Create an instance of the typer command-line interface in main.py
+      check: MatchFileFragment
+      options:
+        fragment: "cli = typer.Typer()"
+        count: 1
+        exact: true
     - description: Create a sufficient number of docstring (i.e., multiple-line) comments in main.py
       check: CountMultipleLineComments
       options:
